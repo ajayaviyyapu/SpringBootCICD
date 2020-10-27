@@ -1,7 +1,5 @@
 package com.ajayexamples.springbootcicd.api.controller;
 
-import java.util.List;
-
 import javax.validation.Valid;
 
 import org.springframework.web.bind.annotation.GetMapping;
